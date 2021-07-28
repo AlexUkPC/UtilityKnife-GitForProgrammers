@@ -20,8 +20,6 @@ namespace UtilityKnife.Converters
             patru
             cinci
             sase
-            sapte
-            opt
             return _celsius;
         }
     }
