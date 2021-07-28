@@ -13,6 +13,7 @@ namespace UtilityKnife.Converters
             mai adauga ceva
             si inca ceva
             unu
+            doi
             return _celsius;
         }
     }
