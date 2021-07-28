@@ -11,6 +11,7 @@ namespace UtilityKnife.Converters
             _celsius = Calculator.Calculator.Division(step2, 9.0);
             adauga ceva
             mai adauga ceva
+            si inca ceva
             return _celsius;
         }
     }
