@@ -18,6 +18,7 @@ namespace UtilityKnife.Converters
             trei
             sarah doi
             patru
+            cinci
             return _celsius;
         }
     }
