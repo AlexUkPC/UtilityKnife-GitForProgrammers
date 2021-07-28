@@ -14,6 +14,7 @@ namespace UtilityKnife.Converters
             si inca ceva
             unu
             doi
+            trei
             return _celsius;
         }
     }
