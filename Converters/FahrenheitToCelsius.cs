@@ -10,6 +10,7 @@ namespace UtilityKnife.Converters
             var step2 = Calculator.Calculator.Multiplication(step1, 5.0);
             _celsius = Calculator.Calculator.Division(step2, 9.0);
             adauga ceva
+            mai adauga ceva
             return _celsius;
         }
     }
